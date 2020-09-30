@@ -1,5 +1,5 @@
 # hacktoberfest
-tambahkan 4 file sesuai bahasa pemrograman dengan nama : 
+tambahkan 4 file sesuai bahasa pemrograman yang anda gunakan dengan nama : 
  <ul>
     <li>helloword</li>
     <li>variable</li>
